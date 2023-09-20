@@ -1,3 +1,4 @@
 # Basics are important
 Vanilla JavaScript projects
-learning from https://vanillawebprojects.com/
+
+Learning from https://vanillawebprojects.com/
